@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "love";
+  src: url("WORDSOFLOVE.ttf");
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+canvas.heartworks {
+  background: #f68a8a;
+  image-rendering: pixelated;
+}
